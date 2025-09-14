@@ -6,6 +6,7 @@ import threading
 import traceback
 from flask import Flask, request
 
+
 # ====== Логирование ======
 def MainProtokol(s, ts='Запись'):
     dt = time.strftime('%d.%m.%Y %H:%M:') + '00'
