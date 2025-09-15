@@ -85,7 +85,7 @@ waiting_for_admin_message = set()
 # ====== Конфигурация ======
 TOKEN = os.getenv("API_TOKEN")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
-WEBHOOK_URL = f"https://telegram-bot-1-g3bw.onrender.com/webhook/{TOKEN}"
+WEBHOOK_URL = f"https://rteyrty-haic.onrender.com/webhook/{TOKEN}"
 
 # ====== Установка вебхука ======
 def set_webhook():
