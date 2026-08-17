@@ -1,0 +1,14 @@
+{
+  "name": "ST Стоматологія",
+  "short_name": "ST",
+  "description": "Приватна стоматологічна студія в м. Кам'янське",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#FAF6EE",
+  "lang": "uk",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
